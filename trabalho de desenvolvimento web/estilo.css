@@ -1,0 +1,181 @@
+body{
+    background-image: url(imagem/f1logogif.gif);
+    
+    
+    background-size: contain;
+    
+}
+
+.div1{
+    margin: 0 auto;
+}
+
+.tabelapontuacao{
+    background-color: azure;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+@font-face{
+    font-family: formula1;
+    src: url(fonte/Formula1-Wide.ttf);
+}
+
+h1{
+    text-align: center;
+    font-family: formula1;
+    font-size: 17px;
+    color: white;
+}
+
+.titulo{
+    float: inline-start;
+    margin-top: 20px;
+    margin-left: 25%;
+}
+
+.divfia{
+    float: left;
+    margin-top: 10px;
+}
+
+.imagem1{
+    width: 100px;
+}
+
+.divf1{
+    float: right;
+    margin-top: 25px;
+}
+
+.imagem2{
+    width: 100px;
+}
+
+.tabela1{
+    background-color: #b0b0b0;
+    border: 20px solid #b0b0b0;
+    border-radius: 20px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.tabela2{
+    background-color: #b0b0b0;
+    border: 20px solid #b0b0b0;
+    border-radius: 20px;
+    width: 600px;
+    margin: 0 auto;
+}
+.tabela3{
+    background-color: #b0b0b0;
+    border: 20px solid #b0b0b0;
+    border-radius: 20px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.tabela4{
+    background-color: #b0b0b0;
+    border: 20px solid #b0b0b0;
+    border-radius: 20px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.tabela5{
+    background-color: #b0b0b0;
+    border: 20px solid #b0b0b0;
+    border-radius: 20px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.tabela6{
+    background-color: #b0b0b0;
+    border: 20px solid #b0b0b0;
+    border-radius: 20px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.tabela7{
+    background-color: #b0b0b0;
+    border: 20px solid #b0b0b0;
+    border-radius: 20px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+table{
+    margin: 0 auto;
+}
+
+@font-face {
+    font-family: italico;
+    src: url(fonte/Formula1-Italic.ttf);
+}
+
+.italic{
+    font-family: italico;
+}
+
+@font-face{
+    font-family: negrito;
+    src: url(fonte/Formula1-Bold-4.ttf);
+}
+
+.gp{
+    font-family: negrito;
+    font-size: 25px;
+}
+
+.pontos{
+    margin: 0 auto;
+    text-align: center;
+    font-family: regular;
+}
+
+.pontos1{
+    margin: 0 auto;
+    text-align: center;
+    font-family: regular;
+    font-size: 13px;
+}
+
+@font-face{
+    font-family: regular;
+    src: url(fonte/Formula1-Regular-1.ttf);
+}
+
+.nomes{
+    font-family: regular;
+}
+
+.summary{
+    font-family: negrito;
+}
+
+.idnegrito{
+    font-family: negrito;
+    font-size: 10px;
+}
+
+.divfixed{
+    position: fixed;
+    background-color: #b0b0b0;
+    width: 250px;
+    border: 20px solid #b0b0b0;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+
+.identificacao{
+    background-color: #b0b0b0;
+    position: sticky;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    width: 600px;
+    border: 10px solid #b0b0b0;
+    border-radius: 10px;
+}
